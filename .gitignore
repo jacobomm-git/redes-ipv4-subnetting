@@ -1,0 +1,23 @@
+# Entorno local y secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+nbproject/private/
+build/
+dist/
+out/
+*.class
+*.exe
+*.o
+*.obj
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/

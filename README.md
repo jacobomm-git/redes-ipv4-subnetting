@@ -1,4 +1,4 @@
-# Redes IPv4
+# Redes IPv4 · Subnetting y diseño de redes locales
 
 Práctica seleccionada de direccionamiento de redes de Jacobo Martínez Martín: cálculo de subredes, dimensionamiento y diagnóstico de configuraciones IPv4.
 
